@@ -1,21 +1,21 @@
 # Hello 👋 I'm Aafreen
 
-### 🤖 Applied AI/ML Intern | Full-Stack AI Developer
+###  Applied AI/ML Intern | Full-Stack AI Developer
 
 Welcome to my GitHub! I specialize in building practical AI applications that bridge the gap between machine learning models and user-friendly web interfaces.
 
 ---
 
-## 🎯 About Me
+##  About Me
 
-- 🔬 **Currently:** Applied AI/ML Intern at **Zaryah Investment Company**.
-- 💡 **Focus:** Building AI-powered tools, from intelligent VS Code extensions to automated video generation systems.
-- 🤝 **Collaboration:** Actively contributing to the **Sakinah** project (collaborating on the `codebyJo` repository), focusing on robust frontend features and database architecture.
-- 🌟 **Goal:** To develop scalable AI solutions that simplify complex workflows and solve real-world problems.
+-  **Currently:** Applied AI/ML Intern at **Zaryah Investment Company**.
+-  **Focus:** Building AI-powered tools, from intelligent VS Code extensions to automated video generation systems.
+-  **Collaboration:** Actively contributing to the **Sakinah** project (collaborating on the `codebyJo` repository), focusing on robust frontend features and database architecture.
+-  **Goal:** To develop scalable AI solutions that simplify complex workflows and solve real-world problems.
 
 ---
 
-## 💻 Tech Stack & AI Tools
+##  Tech Stack & AI Tools
 
 Here are the languages, frameworks, and AI tools I am currently using and learning:
 
@@ -41,7 +41,7 @@ Here are the languages, frameworks, and AI tools I am currently using and learni
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. [Code-Sense](https://github.com/aaf-codes/code-sense)
 An AI-powered VS Code extension for code analysis and review.
@@ -65,7 +65,7 @@ Contributing to the frontend and database architecture for the Sakinah feature.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaf-codes&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
